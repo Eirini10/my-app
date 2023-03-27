@@ -1,0 +1,29 @@
+.temperature{
+    font-size: 35px;
+    font-weight: bold;
+}
+.emoji{
+    color:rgba(170, 170, 6, 0.737);
+}
+.town{
+    text-align: right;
+}
+
+.current-weather {
+    text-align: right;
+    color: grey
+}
+
+.skies {
+    text-align: right;
+    color:grey;
+    text-transform: capitalize;
+}
+a{
+    font-size: 15px;
+
+}
+.divider{
+    font-size: 15px;
+    font-weight: lighter;
+}
